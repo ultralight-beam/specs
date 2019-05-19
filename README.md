@@ -9,6 +9,7 @@ The protocol itself can be implemented over various transport protocols, it is c
 The wire protocol defines how messages are packed in order to later be sent through Ultralight Beams.
 
 ```
-<header-length><command><body-length><body>```
+<header-length><command><body-length><body>
+```
 
 ## Bluetooth
