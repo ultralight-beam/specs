@@ -11,8 +11,9 @@
     1. [Retransmission](#retransmission)
 3. [Footnotes](#footnotes)
 
-
 ## Abstract
+
+In this specification we describe a simple algorithm for forwarding messages within a MANET (Mobile Ad-Hoc Network).
 
 ## Process
 
