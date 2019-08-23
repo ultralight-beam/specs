@@ -6,12 +6,16 @@
 
 ## Table of Contents
 
+1. [Abstract](#abstract)
+2. [Process](#process)
+    1. [Retransmission](#retransmission)
+3. [Footnotes](#footnotes)
+
+
 ## Abstract
 
 ## Process
 
 ### Retransmission
 
-## Definitions
-
-## Footnote
+## Footnotes
