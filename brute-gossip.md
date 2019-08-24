@@ -17,6 +17,8 @@ In this specification we describe a simple algorithm for forwarding messages wit
 
 ## Process
 
+Brute Gossip is a recursive algorithm where nodes forward messages to a subset of nodes from a list of nodes until an acknowledgement has been received.
+
 ### Retransmission
 
 ## Footnotes
