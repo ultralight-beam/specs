@@ -1,5 +1,5 @@
-# Ultralight Beam Specification
+# Specifications
 
 > Ultralight Beam describes a protocol for sending offline messages that will later be broadcasted through relay nodes.
 
-The protocol itself can be implemented over various transport protocols, it is comparative to a MANET (Mobile Ad-Hoc Network).
+This repository contains the specs for [Ultralight Beam](https://ultralightbeam.io), a transport agnostic MANET (Mobile Ad-Hoc Network) for sending arbitrary data.
