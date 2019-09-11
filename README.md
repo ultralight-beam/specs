@@ -8,6 +8,10 @@
 
 This repository contains the specs for [Ultralight Beam](https://ultralightbeam.io), a transport agnostic MANET (Mobile Ad-Hoc Network) for sending arbitrary data.
 
+## Status
+
+Ultralight Beam is under active development, each specification has its own `status` which is reflected through the version number at the top of every document. We use [semver](https://semver.org/) to version these specifications.
+
 ## Core
 
 These specs document core functionality of the Ultralight Beam protocol.
