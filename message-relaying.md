@@ -9,6 +9,7 @@
 1. [Abstract](#abstract)
 2. [Definitions](#definitions)
 3. [Relaying](#relaying)
+4. [Footnotes](#footnotes)
 
 ## Abstract
 
