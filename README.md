@@ -13,3 +13,5 @@ This repository contains the specs for [Ultralight Beam](https://ultralightbeam.
 These specs document core functionality of the Ultralight Beam protocol.
 
 - [Message Relaying](./message-relaying.md) - The process for sending and relaying messages within Ultralight Beam.
+
+All specs follow [RFC-2119](https://tools.ietf.org/html/rfc2119).
